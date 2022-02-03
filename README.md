@@ -4,19 +4,19 @@
 
 
 
-# Mission
+### Mission
 Our mission is to help businesses focus more on their core operations and least about developing engaging software systems.
 
 
 
 
-# Vision
+### Vision
 Our vision is to create engaging, stable, reliable and seamless systems that provide us satisfaction by knowing that users' problems are resolved.
 
 
 
 
-# Core Values
+### Core Values
   - Straightforwardness
   - Trustworthy
   - United
