@@ -1,4 +1,4 @@
-# What is CronBlocks?
+# What is '*CronBlocks*' about?
 *CronBlocks* is conglomerate of fervid architects, coders and designers; aimed at blueprinting & building state of the art and rugged yet delicate systems.
 
 
