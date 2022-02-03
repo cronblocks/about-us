@@ -17,6 +17,6 @@ Our vision is to create engaging, stable, reliable and seamless systems that pro
 
 
 ### Core Values
-  - Straightforwardness
+  - Straightforward
   - Trustworthy
   - United
